@@ -1,0 +1,8 @@
+
+{
+  "name": "VMU Student Assistant",
+  "description": "An AI-powered dashboard for Vietnam Maritime University students to manage schedules, grades, and academic info using Gemini vision to parse portal data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

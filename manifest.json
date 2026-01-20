@@ -1,0 +1,26 @@
+
+{
+  "short_name": "VMU Student",
+  "name": "VMU Student Assistant",
+  "icons": [
+    {
+      "src": "https://dktt.vimaru.edu.vn/Content/Images/logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://dktt.vimaru.edu.vn/Content/Images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://dktt.vimaru.edu.vn/Content/Images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#004a99",
+  "background_color": "#f8fafc"
+}
